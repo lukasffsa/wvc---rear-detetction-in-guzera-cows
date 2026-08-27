@@ -1,0 +1,140 @@
+Rodando na cuda                            
+
+========================================
+Iniciando Fold de Validação: 1
+Fold 1 | Epoch: 1/20 | Loss: 0.1224
+Fold 1 | Epoch: 2/20 | Loss: 0.0502
+Fold 1 | Epoch: 3/20 | Loss: 0.0370
+Fold 1 | Epoch: 4/20 | Loss: 0.0247
+Fold 1 | Epoch: 5/20 | Loss: 0.0234
+Fold 1 | Epoch: 6/20 | Loss: 0.0223
+Fold 1 | Epoch: 7/20 | Loss: 0.0219
+Fold 1 | Epoch: 8/20 | Loss: 0.0218
+Fold 1 | Epoch: 9/20 | Loss: 0.0216
+Fold 1 | Epoch: 10/20 | Loss: 0.0215
+Fold 1 | Epoch: 11/20 | Loss: 0.0217
+Fold 1 | Epoch: 12/20 | Loss: 0.0214
+Fold 1 | Epoch: 13/20 | Loss: 0.0215
+Fold 1 | Epoch: 14/20 | Loss: 0.0213
+Fold 1 | Epoch: 15/20 | Loss: 0.0213
+Fold 1 | Epoch: 16/20 | Loss: 0.0217
+Fold 1 | Epoch: 17/20 | Loss: 0.0214
+Fold 1 | Epoch: 18/20 | Loss: 0.0214
+Fold 1 | Epoch: 19/20 | Loss: 0.0214
+Fold 1 | Epoch: 20/20 | Loss: 0.0216
+Avaliando o modelo da última época do Fold 1...
+Fold 1 results:
+Val Accuracy (mAP@0.5) = 0.9611
+Gerando visualização para uma imagem deste fold...
+
+========================================
+Iniciando Fold de Validação: 2
+Fold 2 | Epoch: 1/20 | Loss: 0.1128
+Fold 2 | Epoch: 2/20 | Loss: 0.0504
+Fold 2 | Epoch: 3/20 | Loss: 0.0403
+Fold 2 | Epoch: 4/20 | Loss: 0.0275
+Fold 2 | Epoch: 5/20 | Loss: 0.0263
+Fold 2 | Epoch: 6/20 | Loss: 0.0252
+Fold 2 | Epoch: 7/20 | Loss: 0.0241
+Fold 2 | Epoch: 8/20 | Loss: 0.0239
+Fold 2 | Epoch: 9/20 | Loss: 0.0239
+Fold 2 | Epoch: 10/20 | Loss: 0.0238
+Fold 2 | Epoch: 11/20 | Loss: 0.0237
+Fold 2 | Epoch: 12/20 | Loss: 0.0239
+Fold 2 | Epoch: 13/20 | Loss: 0.0235
+Fold 2 | Epoch: 14/20 | Loss: 0.0238
+Fold 2 | Epoch: 15/20 | Loss: 0.0239
+Fold 2 | Epoch: 16/20 | Loss: 0.0237
+Fold 2 | Epoch: 17/20 | Loss: 0.0237
+Fold 2 | Epoch: 18/20 | Loss: 0.0238
+Fold 2 | Epoch: 19/20 | Loss: 0.0240
+Fold 2 | Epoch: 20/20 | Loss: 0.0240
+Avaliando o modelo da última época do Fold 2...
+Fold 2 results:
+Val Accuracy (mAP@0.5) = 0.9832
+Gerando visualização para uma imagem deste fold...
+
+========================================
+Iniciando Fold de Validação: 3
+Fold 3 | Epoch: 1/20 | Loss: 0.1262
+Fold 3 | Epoch: 2/20 | Loss: 0.0456
+Fold 3 | Epoch: 3/20 | Loss: 0.0341
+Fold 3 | Epoch: 4/20 | Loss: 0.0258
+Fold 3 | Epoch: 5/20 | Loss: 0.0242
+Fold 3 | Epoch: 6/20 | Loss: 0.0230
+Fold 3 | Epoch: 7/20 | Loss: 0.0220
+Fold 3 | Epoch: 8/20 | Loss: 0.0217
+Fold 3 | Epoch: 9/20 | Loss: 0.0218
+Fold 3 | Epoch: 10/20 | Loss: 0.0217
+Fold 3 | Epoch: 11/20 | Loss: 0.0217
+Fold 3 | Epoch: 12/20 | Loss: 0.0218
+Fold 3 | Epoch: 13/20 | Loss: 0.0216
+Fold 3 | Epoch: 14/20 | Loss: 0.0219
+Fold 3 | Epoch: 15/20 | Loss: 0.0217
+Fold 3 | Epoch: 16/20 | Loss: 0.0216
+Fold 3 | Epoch: 17/20 | Loss: 0.0218
+Fold 3 | Epoch: 18/20 | Loss: 0.0217
+Fold 3 | Epoch: 19/20 | Loss: 0.0217
+Fold 3 | Epoch: 20/20 | Loss: 0.0217
+Avaliando o modelo da última época do Fold 3...
+Fold 3 results:
+Val Accuracy (mAP@0.5) = 0.9716
+Gerando visualização para uma imagem deste fold...
+
+========================================
+Iniciando Fold de Validação: 4
+Fold 4 | Epoch: 1/20 | Loss: 0.1149
+Fold 4 | Epoch: 2/20 | Loss: 0.0443
+Fold 4 | Epoch: 3/20 | Loss: 0.0342
+Fold 4 | Epoch: 4/20 | Loss: 0.0259
+Fold 4 | Epoch: 5/20 | Loss: 0.0245
+Fold 4 | Epoch: 6/20 | Loss: 0.0237
+Fold 4 | Epoch: 7/20 | Loss: 0.0228
+Fold 4 | Epoch: 8/20 | Loss: 0.0226
+Fold 4 | Epoch: 9/20 | Loss: 0.0225
+Fold 4 | Epoch: 10/20 | Loss: 0.0225
+Fold 4 | Epoch: 11/20 | Loss: 0.0223
+Fold 4 | Epoch: 12/20 | Loss: 0.0226
+Fold 4 | Epoch: 13/20 | Loss: 0.0227
+Fold 4 | Epoch: 14/20 | Loss: 0.0223
+Fold 4 | Epoch: 15/20 | Loss: 0.0226
+Fold 4 | Epoch: 16/20 | Loss: 0.0225
+Fold 4 | Epoch: 17/20 | Loss: 0.0224
+Fold 4 | Epoch: 18/20 | Loss: 0.0228
+Fold 4 | Epoch: 19/20 | Loss: 0.0224
+Fold 4 | Epoch: 20/20 | Loss: 0.0223
+Avaliando o modelo da última época do Fold 4...
+Fold 4 results:
+Val Accuracy (mAP@0.5) = 0.9563
+Gerando visualização para uma imagem deste fold...
+
+========================================
+Iniciando Fold de Validação: 5
+Fold 5 | Epoch: 1/20 | Loss: 0.1163
+Fold 5 | Epoch: 2/20 | Loss: 0.0474
+Fold 5 | Epoch: 3/20 | Loss: 0.0349
+Fold 5 | Epoch: 4/20 | Loss: 0.0231
+Fold 5 | Epoch: 5/20 | Loss: 0.0220
+Fold 5 | Epoch: 6/20 | Loss: 0.0213
+Fold 5 | Epoch: 7/20 | Loss: 0.0202
+Fold 5 | Epoch: 8/20 | Loss: 0.0202
+Fold 5 | Epoch: 9/20 | Loss: 0.0201
+Fold 5 | Epoch: 10/20 | Loss: 0.0200
+Fold 5 | Epoch: 11/20 | Loss: 0.0200
+Fold 5 | Epoch: 12/20 | Loss: 0.0197
+Fold 5 | Epoch: 13/20 | Loss: 0.0197
+Fold 5 | Epoch: 14/20 | Loss: 0.0197
+Fold 5 | Epoch: 15/20 | Loss: 0.0199
+Fold 5 | Epoch: 16/20 | Loss: 0.0201
+Fold 5 | Epoch: 17/20 | Loss: 0.0199
+Fold 5 | Epoch: 18/20 | Loss: 0.0200
+Fold 5 | Epoch: 19/20 | Loss: 0.0197
+Fold 5 | Epoch: 20/20 | Loss: 0.0198
+Avaliando o modelo da última época do Fold 5...
+Fold 5 results:
+Val Accuracy (mAP@0.5) = 0.9944
+Gerando visualização para uma imagem deste fold...
+
+========================================
+Resultados Finais 5-Fold CV:
+Accuracy (mAP@0.5 proxy): 0.9733 ± 0.0140

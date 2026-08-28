@@ -1,5 +1,5 @@
 [project]
-name = "fasterrcnn"
+name = "fitcow"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -25,7 +25,6 @@ dependencies = [
     "six==1.17.0",
     "sympy==1.14.0",
     "torch==2.11.0+cu128",
-    "torchaudio==2.11.0+cu128",
     "torchvision==0.26.0+cu128",
     "typing-extensions==4.16.0",
 ]
@@ -36,3 +35,12 @@ fasterrcnn = "fasterrcnn:main"
 [build-system]
 requires = ["uv_build>=0.12.5,<0.13.0"]
 build-backend = "uv_build"
+
+[[tool.uv.index]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch" }
+torchvision = { index = "pytorch" }

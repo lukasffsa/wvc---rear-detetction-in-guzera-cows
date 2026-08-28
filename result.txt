@@ -1,0 +1,731 @@
+Rodando na cuda                       
+
+##################################################
+Iniciando experimentos com Batch Size: 2
+##################################################
+
+--- Treinando Modelo: FasterRCNN (BS=2) ---
+
+Iniciando Fold: 1
+FasterRCNN | Fold 1 | Epoca: 1/20 | Loss: 0.1017
+FasterRCNN | Fold 1 | Epoca: 2/20 | Loss: 0.0397
+FasterRCNN | Fold 1 | Epoca: 3/20 | Loss: 0.0334
+FasterRCNN | Fold 1 | Epoca: 4/20 | Loss: 0.0217
+FasterRCNN | Fold 1 | Epoca: 5/20 | Loss: 0.0201
+FasterRCNN | Fold 1 | Epoca: 6/20 | Loss: 0.0190
+FasterRCNN | Fold 1 | Epoca: 7/20 | Loss: 0.0181
+FasterRCNN | Fold 1 | Epoca: 8/20 | Loss: 0.0179
+FasterRCNN | Fold 1 | Epoca: 9/20 | Loss: 0.0178
+FasterRCNN | Fold 1 | Epoca: 10/20 | Loss: 0.0177
+FasterRCNN | Fold 1 | Epoca: 11/20 | Loss: 0.0178
+FasterRCNN | Fold 1 | Epoca: 12/20 | Loss: 0.0178
+FasterRCNN | Fold 1 | Epoca: 13/20 | Loss: 0.0177
+FasterRCNN | Fold 1 | Epoca: 14/20 | Loss: 0.0175
+FasterRCNN | Fold 1 | Epoca: 15/20 | Loss: 0.0179
+FasterRCNN | Fold 1 | Epoca: 16/20 | Loss: 0.0179
+FasterRCNN | Fold 1 | Epoca: 17/20 | Loss: 0.0177
+FasterRCNN | Fold 1 | Epoca: 18/20 | Loss: 0.0176
+FasterRCNN | Fold 1 | Epoca: 19/20 | Loss: 0.0178
+FasterRCNN | Fold 1 | Epoca: 20/20 | Loss: 0.0179
+
+Iniciando Fold: 2
+FasterRCNN | Fold 2 | Epoca: 1/20 | Loss: 0.0842
+FasterRCNN | Fold 2 | Epoca: 2/20 | Loss: 0.0412
+FasterRCNN | Fold 2 | Epoca: 3/20 | Loss: 0.0306
+FasterRCNN | Fold 2 | Epoca: 4/20 | Loss: 0.0202
+FasterRCNN | Fold 2 | Epoca: 5/20 | Loss: 0.0189
+FasterRCNN | Fold 2 | Epoca: 6/20 | Loss: 0.0177
+FasterRCNN | Fold 2 | Epoca: 7/20 | Loss: 0.0164
+FasterRCNN | Fold 2 | Epoca: 8/20 | Loss: 0.0166
+FasterRCNN | Fold 2 | Epoca: 9/20 | Loss: 0.0163
+FasterRCNN | Fold 2 | Epoca: 10/20 | Loss: 0.0163
+FasterRCNN | Fold 2 | Epoca: 11/20 | Loss: 0.0161
+FasterRCNN | Fold 2 | Epoca: 12/20 | Loss: 0.0163
+FasterRCNN | Fold 2 | Epoca: 13/20 | Loss: 0.0162
+FasterRCNN | Fold 2 | Epoca: 14/20 | Loss: 0.0162
+FasterRCNN | Fold 2 | Epoca: 15/20 | Loss: 0.0161
+FasterRCNN | Fold 2 | Epoca: 16/20 | Loss: 0.0162
+FasterRCNN | Fold 2 | Epoca: 17/20 | Loss: 0.0161
+FasterRCNN | Fold 2 | Epoca: 18/20 | Loss: 0.0162
+FasterRCNN | Fold 2 | Epoca: 19/20 | Loss: 0.0161
+FasterRCNN | Fold 2 | Epoca: 20/20 | Loss: 0.0159
+
+Iniciando Fold: 3
+FasterRCNN | Fold 3 | Epoca: 1/20 | Loss: 0.0902
+FasterRCNN | Fold 3 | Epoca: 2/20 | Loss: 0.0371
+FasterRCNN | Fold 3 | Epoca: 3/20 | Loss: 0.0275
+FasterRCNN | Fold 3 | Epoca: 4/20 | Loss: 0.0209
+FasterRCNN | Fold 3 | Epoca: 5/20 | Loss: 0.0181
+FasterRCNN | Fold 3 | Epoca: 6/20 | Loss: 0.0172
+FasterRCNN | Fold 3 | Epoca: 7/20 | Loss: 0.0157
+FasterRCNN | Fold 3 | Epoca: 8/20 | Loss: 0.0155
+FasterRCNN | Fold 3 | Epoca: 9/20 | Loss: 0.0153
+FasterRCNN | Fold 3 | Epoca: 10/20 | Loss: 0.0153
+FasterRCNN | Fold 3 | Epoca: 11/20 | Loss: 0.0156
+FasterRCNN | Fold 3 | Epoca: 12/20 | Loss: 0.0154
+FasterRCNN | Fold 3 | Epoca: 13/20 | Loss: 0.0154
+FasterRCNN | Fold 3 | Epoca: 14/20 | Loss: 0.0152
+FasterRCNN | Fold 3 | Epoca: 15/20 | Loss: 0.0153
+FasterRCNN | Fold 3 | Epoca: 16/20 | Loss: 0.0154
+FasterRCNN | Fold 3 | Epoca: 17/20 | Loss: 0.0154
+FasterRCNN | Fold 3 | Epoca: 18/20 | Loss: 0.0152
+FasterRCNN | Fold 3 | Epoca: 19/20 | Loss: 0.0153
+FasterRCNN | Fold 3 | Epoca: 20/20 | Loss: 0.0154
+
+Iniciando Fold: 4
+FasterRCNN | Fold 4 | Epoca: 1/20 | Loss: 0.0892
+FasterRCNN | Fold 4 | Epoca: 2/20 | Loss: 0.0391
+FasterRCNN | Fold 4 | Epoca: 3/20 | Loss: 0.0300
+FasterRCNN | Fold 4 | Epoca: 4/20 | Loss: 0.0217
+FasterRCNN | Fold 4 | Epoca: 5/20 | Loss: 0.0197
+FasterRCNN | Fold 4 | Epoca: 6/20 | Loss: 0.0185
+FasterRCNN | Fold 4 | Epoca: 7/20 | Loss: 0.0175
+FasterRCNN | Fold 4 | Epoca: 8/20 | Loss: 0.0174
+FasterRCNN | Fold 4 | Epoca: 9/20 | Loss: 0.0174
+FasterRCNN | Fold 4 | Epoca: 10/20 | Loss: 0.0171
+FasterRCNN | Fold 4 | Epoca: 11/20 | Loss: 0.0171
+FasterRCNN | Fold 4 | Epoca: 12/20 | Loss: 0.0171
+FasterRCNN | Fold 4 | Epoca: 13/20 | Loss: 0.0170
+FasterRCNN | Fold 4 | Epoca: 14/20 | Loss: 0.0172
+FasterRCNN | Fold 4 | Epoca: 15/20 | Loss: 0.0170
+FasterRCNN | Fold 4 | Epoca: 16/20 | Loss: 0.0171
+FasterRCNN | Fold 4 | Epoca: 17/20 | Loss: 0.0171
+FasterRCNN | Fold 4 | Epoca: 18/20 | Loss: 0.0171
+FasterRCNN | Fold 4 | Epoca: 19/20 | Loss: 0.0171
+FasterRCNN | Fold 4 | Epoca: 20/20 | Loss: 0.0169
+
+Iniciando Fold: 5
+FasterRCNN | Fold 5 | Epoca: 1/20 | Loss: 0.0976
+FasterRCNN | Fold 5 | Epoca: 2/20 | Loss: 0.0455
+FasterRCNN | Fold 5 | Epoca: 3/20 | Loss: 0.0361
+FasterRCNN | Fold 5 | Epoca: 4/20 | Loss: 0.0248
+FasterRCNN | Fold 5 | Epoca: 5/20 | Loss: 0.0220
+FasterRCNN | Fold 5 | Epoca: 6/20 | Loss: 0.0207
+FasterRCNN | Fold 5 | Epoca: 7/20 | Loss: 0.0190
+FasterRCNN | Fold 5 | Epoca: 8/20 | Loss: 0.0190
+FasterRCNN | Fold 5 | Epoca: 9/20 | Loss: 0.0185
+FasterRCNN | Fold 5 | Epoca: 10/20 | Loss: 0.0186
+FasterRCNN | Fold 5 | Epoca: 11/20 | Loss: 0.0187
+FasterRCNN | Fold 5 | Epoca: 12/20 | Loss: 0.0187
+FasterRCNN | Fold 5 | Epoca: 13/20 | Loss: 0.0188
+FasterRCNN | Fold 5 | Epoca: 14/20 | Loss: 0.0185
+FasterRCNN | Fold 5 | Epoca: 15/20 | Loss: 0.0187
+FasterRCNN | Fold 5 | Epoca: 16/20 | Loss: 0.0185
+FasterRCNN | Fold 5 | Epoca: 17/20 | Loss: 0.0186
+FasterRCNN | Fold 5 | Epoca: 18/20 | Loss: 0.0185
+FasterRCNN | Fold 5 | Epoca: 19/20 | Loss: 0.0185
+FasterRCNN | Fold 5 | Epoca: 20/20 | Loss: 0.0184
+
+Resultados Finais Ponderados (FasterRCNN - BS 2):
+precision: 0.9745
+recall: 0.9871
+f_score: 0.9808
+map50: 0.9898
+map50_95: 0.8717
+
+--- Treinando Modelo: SSDLite (BS=2) ---
+
+Iniciando Fold: 1
+SSDLite | Fold 1 | Epoca: 1/20 | Loss: 2.3257
+SSDLite | Fold 1 | Epoca: 2/20 | Loss: 1.2254
+SSDLite | Fold 1 | Epoca: 3/20 | Loss: 0.9841
+SSDLite | Fold 1 | Epoca: 4/20 | Loss: 0.5930
+SSDLite | Fold 1 | Epoca: 5/20 | Loss: 0.5101
+SSDLite | Fold 1 | Epoca: 6/20 | Loss: 0.4705
+SSDLite | Fold 1 | Epoca: 7/20 | Loss: 0.4432
+SSDLite | Fold 1 | Epoca: 8/20 | Loss: 0.4320
+SSDLite | Fold 1 | Epoca: 9/20 | Loss: 0.4364
+SSDLite | Fold 1 | Epoca: 10/20 | Loss: 0.4198
+SSDLite | Fold 1 | Epoca: 11/20 | Loss: 0.4240
+SSDLite | Fold 1 | Epoca: 12/20 | Loss: 0.4196
+SSDLite | Fold 1 | Epoca: 13/20 | Loss: 0.4293
+SSDLite | Fold 1 | Epoca: 14/20 | Loss: 0.4410
+SSDLite | Fold 1 | Epoca: 15/20 | Loss: 0.4239
+SSDLite | Fold 1 | Epoca: 16/20 | Loss: 0.4227
+SSDLite | Fold 1 | Epoca: 17/20 | Loss: 0.4241
+SSDLite | Fold 1 | Epoca: 18/20 | Loss: 0.4208
+SSDLite | Fold 1 | Epoca: 19/20 | Loss: 0.4227
+SSDLite | Fold 1 | Epoca: 20/20 | Loss: 0.4262
+
+Iniciando Fold: 2
+SSDLite | Fold 2 | Epoca: 1/20 | Loss: 2.2730
+SSDLite | Fold 2 | Epoca: 2/20 | Loss: 1.1375
+SSDLite | Fold 2 | Epoca: 3/20 | Loss: 0.9116
+SSDLite | Fold 2 | Epoca: 4/20 | Loss: 0.5686
+SSDLite | Fold 2 | Epoca: 5/20 | Loss: 0.4855
+SSDLite | Fold 2 | Epoca: 6/20 | Loss: 0.4284
+SSDLite | Fold 2 | Epoca: 7/20 | Loss: 0.4064
+SSDLite | Fold 2 | Epoca: 8/20 | Loss: 0.3928
+SSDLite | Fold 2 | Epoca: 9/20 | Loss: 0.3901
+SSDLite | Fold 2 | Epoca: 10/20 | Loss: 0.3913
+SSDLite | Fold 2 | Epoca: 11/20 | Loss: 0.3864
+SSDLite | Fold 2 | Epoca: 12/20 | Loss: 0.3905
+SSDLite | Fold 2 | Epoca: 13/20 | Loss: 0.3747
+SSDLite | Fold 2 | Epoca: 14/20 | Loss: 0.3808
+SSDLite | Fold 2 | Epoca: 15/20 | Loss: 0.3760
+SSDLite | Fold 2 | Epoca: 16/20 | Loss: 0.3841
+SSDLite | Fold 2 | Epoca: 17/20 | Loss: 0.3854
+SSDLite | Fold 2 | Epoca: 18/20 | Loss: 0.3891
+SSDLite | Fold 2 | Epoca: 19/20 | Loss: 0.3801
+SSDLite | Fold 2 | Epoca: 20/20 | Loss: 0.3851
+
+Iniciando Fold: 3
+SSDLite | Fold 3 | Epoca: 1/20 | Loss: 2.2297
+SSDLite | Fold 3 | Epoca: 2/20 | Loss: 1.1980
+SSDLite | Fold 3 | Epoca: 3/20 | Loss: 0.9299
+SSDLite | Fold 3 | Epoca: 4/20 | Loss: 0.6122
+SSDLite | Fold 3 | Epoca: 5/20 | Loss: 0.5151
+SSDLite | Fold 3 | Epoca: 6/20 | Loss: 0.4750
+SSDLite | Fold 3 | Epoca: 7/20 | Loss: 0.4362
+SSDLite | Fold 3 | Epoca: 8/20 | Loss: 0.4296
+SSDLite | Fold 3 | Epoca: 9/20 | Loss: 0.4242
+SSDLite | Fold 3 | Epoca: 10/20 | Loss: 0.4150
+SSDLite | Fold 3 | Epoca: 11/20 | Loss: 0.4319
+SSDLite | Fold 3 | Epoca: 12/20 | Loss: 0.4295
+SSDLite | Fold 3 | Epoca: 13/20 | Loss: 0.4205
+SSDLite | Fold 3 | Epoca: 14/20 | Loss: 0.4276
+SSDLite | Fold 3 | Epoca: 15/20 | Loss: 0.4306
+SSDLite | Fold 3 | Epoca: 16/20 | Loss: 0.4158
+SSDLite | Fold 3 | Epoca: 17/20 | Loss: 0.4252
+SSDLite | Fold 3 | Epoca: 18/20 | Loss: 0.4236
+SSDLite | Fold 3 | Epoca: 19/20 | Loss: 0.4152
+SSDLite | Fold 3 | Epoca: 20/20 | Loss: 0.4218
+
+Iniciando Fold: 4
+SSDLite | Fold 4 | Epoca: 1/20 | Loss: 2.2481
+SSDLite | Fold 4 | Epoca: 2/20 | Loss: 1.1332
+SSDLite | Fold 4 | Epoca: 3/20 | Loss: 0.9082
+SSDLite | Fold 4 | Epoca: 4/20 | Loss: 0.6227
+SSDLite | Fold 4 | Epoca: 5/20 | Loss: 0.5052
+SSDLite | Fold 4 | Epoca: 6/20 | Loss: 0.4619
+SSDLite | Fold 4 | Epoca: 7/20 | Loss: 0.4093
+SSDLite | Fold 4 | Epoca: 8/20 | Loss: 0.4054
+SSDLite | Fold 4 | Epoca: 9/20 | Loss: 0.4092
+SSDLite | Fold 4 | Epoca: 10/20 | Loss: 0.4077
+SSDLite | Fold 4 | Epoca: 11/20 | Loss: 0.3964
+SSDLite | Fold 4 | Epoca: 12/20 | Loss: 0.3921
+SSDLite | Fold 4 | Epoca: 13/20 | Loss: 0.3940
+SSDLite | Fold 4 | Epoca: 14/20 | Loss: 0.3990
+SSDLite | Fold 4 | Epoca: 15/20 | Loss: 0.3951
+SSDLite | Fold 4 | Epoca: 16/20 | Loss: 0.3976
+SSDLite | Fold 4 | Epoca: 17/20 | Loss: 0.4003
+SSDLite | Fold 4 | Epoca: 18/20 | Loss: 0.3975
+SSDLite | Fold 4 | Epoca: 19/20 | Loss: 0.3969
+SSDLite | Fold 4 | Epoca: 20/20 | Loss: 0.4017
+
+Iniciando Fold: 5
+SSDLite | Fold 5 | Epoca: 1/20 | Loss: 2.2899
+SSDLite | Fold 5 | Epoca: 2/20 | Loss: 1.1572
+SSDLite | Fold 5 | Epoca: 3/20 | Loss: 0.9202
+SSDLite | Fold 5 | Epoca: 4/20 | Loss: 0.5727
+SSDLite | Fold 5 | Epoca: 5/20 | Loss: 0.4787
+SSDLite | Fold 5 | Epoca: 6/20 | Loss: 0.4396
+SSDLite | Fold 5 | Epoca: 7/20 | Loss: 0.3996
+SSDLite | Fold 5 | Epoca: 8/20 | Loss: 0.4038
+SSDLite | Fold 5 | Epoca: 9/20 | Loss: 0.4046
+SSDLite | Fold 5 | Epoca: 10/20 | Loss: 0.3864
+SSDLite | Fold 5 | Epoca: 11/20 | Loss: 0.3895
+SSDLite | Fold 5 | Epoca: 12/20 | Loss: 0.3891
+SSDLite | Fold 5 | Epoca: 13/20 | Loss: 0.3927
+SSDLite | Fold 5 | Epoca: 14/20 | Loss: 0.3874
+SSDLite | Fold 5 | Epoca: 15/20 | Loss: 0.3862
+SSDLite | Fold 5 | Epoca: 16/20 | Loss: 0.3811
+SSDLite | Fold 5 | Epoca: 17/20 | Loss: 0.3925
+SSDLite | Fold 5 | Epoca: 18/20 | Loss: 0.3826
+SSDLite | Fold 5 | Epoca: 19/20 | Loss: 0.3928
+SSDLite | Fold 5 | Epoca: 20/20 | Loss: 0.3818
+
+Resultados Finais Ponderados (SSDLite - BS 2):
+precision: 0.9325
+recall: 0.9807
+f_score: 0.9555
+map50: 0.9816
+map50_95: 0.7803
+
+##################################################
+Iniciando experimentos com Batch Size: 4
+##################################################
+
+--- Treinando Modelo: FasterRCNN (BS=4) ---
+
+Iniciando Fold: 1
+FasterRCNN | Fold 1 | Epoca: 1/20 | Loss: 0.1188
+FasterRCNN | Fold 1 | Epoca: 2/20 | Loss: 0.0493
+FasterRCNN | Fold 1 | Epoca: 3/20 | Loss: 0.0337
+FasterRCNN | Fold 1 | Epoca: 4/20 | Loss: 0.0239
+FasterRCNN | Fold 1 | Epoca: 5/20 | Loss: 0.0222
+FasterRCNN | Fold 1 | Epoca: 6/20 | Loss: 0.0208
+FasterRCNN | Fold 1 | Epoca: 7/20 | Loss: 0.0199
+FasterRCNN | Fold 1 | Epoca: 8/20 | Loss: 0.0199
+FasterRCNN | Fold 1 | Epoca: 9/20 | Loss: 0.0197
+FasterRCNN | Fold 1 | Epoca: 10/20 | Loss: 0.0196
+FasterRCNN | Fold 1 | Epoca: 11/20 | Loss: 0.0196
+FasterRCNN | Fold 1 | Epoca: 12/20 | Loss: 0.0195
+FasterRCNN | Fold 1 | Epoca: 13/20 | Loss: 0.0195
+FasterRCNN | Fold 1 | Epoca: 14/20 | Loss: 0.0197
+FasterRCNN | Fold 1 | Epoca: 15/20 | Loss: 0.0196
+FasterRCNN | Fold 1 | Epoca: 16/20 | Loss: 0.0195
+FasterRCNN | Fold 1 | Epoca: 17/20 | Loss: 0.0196
+FasterRCNN | Fold 1 | Epoca: 18/20 | Loss: 0.0196
+FasterRCNN | Fold 1 | Epoca: 19/20 | Loss: 0.0197
+FasterRCNN | Fold 1 | Epoca: 20/20 | Loss: 0.0194
+
+Iniciando Fold: 2
+FasterRCNN | Fold 2 | Epoca: 1/20 | Loss: 0.1030
+FasterRCNN | Fold 2 | Epoca: 2/20 | Loss: 0.0495
+FasterRCNN | Fold 2 | Epoca: 3/20 | Loss: 0.0362
+FasterRCNN | Fold 2 | Epoca: 4/20 | Loss: 0.0254
+FasterRCNN | Fold 2 | Epoca: 5/20 | Loss: 0.0234
+FasterRCNN | Fold 2 | Epoca: 6/20 | Loss: 0.0225
+FasterRCNN | Fold 2 | Epoca: 7/20 | Loss: 0.0213
+FasterRCNN | Fold 2 | Epoca: 8/20 | Loss: 0.0215
+FasterRCNN | Fold 2 | Epoca: 9/20 | Loss: 0.0215
+FasterRCNN | Fold 2 | Epoca: 10/20 | Loss: 0.0211
+FasterRCNN | Fold 2 | Epoca: 11/20 | Loss: 0.0212
+FasterRCNN | Fold 2 | Epoca: 12/20 | Loss: 0.0210
+FasterRCNN | Fold 2 | Epoca: 13/20 | Loss: 0.0211
+FasterRCNN | Fold 2 | Epoca: 14/20 | Loss: 0.0211
+FasterRCNN | Fold 2 | Epoca: 15/20 | Loss: 0.0212
+FasterRCNN | Fold 2 | Epoca: 16/20 | Loss: 0.0212
+FasterRCNN | Fold 2 | Epoca: 17/20 | Loss: 0.0212
+FasterRCNN | Fold 2 | Epoca: 18/20 | Loss: 0.0210
+FasterRCNN | Fold 2 | Epoca: 19/20 | Loss: 0.0212
+FasterRCNN | Fold 2 | Epoca: 20/20 | Loss: 0.0210
+
+Iniciando Fold: 3
+FasterRCNN | Fold 3 | Epoca: 1/20 | Loss: 0.1144
+FasterRCNN | Fold 3 | Epoca: 2/20 | Loss: 0.0416
+FasterRCNN | Fold 3 | Epoca: 3/20 | Loss: 0.0311
+FasterRCNN | Fold 3 | Epoca: 4/20 | Loss: 0.0232
+FasterRCNN | Fold 3 | Epoca: 5/20 | Loss: 0.0211
+FasterRCNN | Fold 3 | Epoca: 6/20 | Loss: 0.0202
+FasterRCNN | Fold 3 | Epoca: 7/20 | Loss: 0.0194
+FasterRCNN | Fold 3 | Epoca: 8/20 | Loss: 0.0192
+FasterRCNN | Fold 3 | Epoca: 9/20 | Loss: 0.0191
+FasterRCNN | Fold 3 | Epoca: 10/20 | Loss: 0.0191
+FasterRCNN | Fold 3 | Epoca: 11/20 | Loss: 0.0190
+FasterRCNN | Fold 3 | Epoca: 12/20 | Loss: 0.0188
+FasterRCNN | Fold 3 | Epoca: 13/20 | Loss: 0.0190
+FasterRCNN | Fold 3 | Epoca: 14/20 | Loss: 0.0190
+FasterRCNN | Fold 3 | Epoca: 15/20 | Loss: 0.0189
+FasterRCNN | Fold 3 | Epoca: 16/20 | Loss: 0.0189
+FasterRCNN | Fold 3 | Epoca: 17/20 | Loss: 0.0192
+FasterRCNN | Fold 3 | Epoca: 18/20 | Loss: 0.0192
+FasterRCNN | Fold 3 | Epoca: 19/20 | Loss: 0.0190
+FasterRCNN | Fold 3 | Epoca: 20/20 | Loss: 0.0191
+
+Iniciando Fold: 4
+FasterRCNN | Fold 4 | Epoca: 1/20 | Loss: 0.1052
+FasterRCNN | Fold 4 | Epoca: 2/20 | Loss: 0.0438
+FasterRCNN | Fold 4 | Epoca: 3/20 | Loss: 0.0325
+FasterRCNN | Fold 4 | Epoca: 4/20 | Loss: 0.0233
+FasterRCNN | Fold 4 | Epoca: 5/20 | Loss: 0.0212
+FasterRCNN | Fold 4 | Epoca: 6/20 | Loss: 0.0205
+FasterRCNN | Fold 4 | Epoca: 7/20 | Loss: 0.0194
+FasterRCNN | Fold 4 | Epoca: 8/20 | Loss: 0.0192
+FasterRCNN | Fold 4 | Epoca: 9/20 | Loss: 0.0193
+FasterRCNN | Fold 4 | Epoca: 10/20 | Loss: 0.0191
+FasterRCNN | Fold 4 | Epoca: 11/20 | Loss: 0.0192
+FasterRCNN | Fold 4 | Epoca: 12/20 | Loss: 0.0191
+FasterRCNN | Fold 4 | Epoca: 13/20 | Loss: 0.0189
+FasterRCNN | Fold 4 | Epoca: 14/20 | Loss: 0.0193
+FasterRCNN | Fold 4 | Epoca: 15/20 | Loss: 0.0192
+FasterRCNN | Fold 4 | Epoca: 16/20 | Loss: 0.0192
+FasterRCNN | Fold 4 | Epoca: 17/20 | Loss: 0.0191
+FasterRCNN | Fold 4 | Epoca: 18/20 | Loss: 0.0191
+FasterRCNN | Fold 4 | Epoca: 19/20 | Loss: 0.0191
+FasterRCNN | Fold 4 | Epoca: 20/20 | Loss: 0.0189
+
+Iniciando Fold: 5
+FasterRCNN | Fold 5 | Epoca: 1/20 | Loss: 0.1161
+FasterRCNN | Fold 5 | Epoca: 2/20 | Loss: 0.0462
+FasterRCNN | Fold 5 | Epoca: 3/20 | Loss: 0.0319
+FasterRCNN | Fold 5 | Epoca: 4/20 | Loss: 0.0221
+FasterRCNN | Fold 5 | Epoca: 5/20 | Loss: 0.0205
+FasterRCNN | Fold 5 | Epoca: 6/20 | Loss: 0.0201
+FasterRCNN | Fold 5 | Epoca: 7/20 | Loss: 0.0192
+FasterRCNN | Fold 5 | Epoca: 8/20 | Loss: 0.0188
+FasterRCNN | Fold 5 | Epoca: 9/20 | Loss: 0.0189
+FasterRCNN | Fold 5 | Epoca: 10/20 | Loss: 0.0186
+FasterRCNN | Fold 5 | Epoca: 11/20 | Loss: 0.0187
+FasterRCNN | Fold 5 | Epoca: 12/20 | Loss: 0.0185
+FasterRCNN | Fold 5 | Epoca: 13/20 | Loss: 0.0188
+FasterRCNN | Fold 5 | Epoca: 14/20 | Loss: 0.0186
+FasterRCNN | Fold 5 | Epoca: 15/20 | Loss: 0.0190
+FasterRCNN | Fold 5 | Epoca: 16/20 | Loss: 0.0185
+FasterRCNN | Fold 5 | Epoca: 17/20 | Loss: 0.0187
+FasterRCNN | Fold 5 | Epoca: 18/20 | Loss: 0.0187
+FasterRCNN | Fold 5 | Epoca: 19/20 | Loss: 0.0185
+FasterRCNN | Fold 5 | Epoca: 20/20 | Loss: 0.0190
+
+Resultados Finais Ponderados (FasterRCNN - BS 4):
+precision: 0.9735
+recall: 0.9923
+f_score: 0.9828
+map50: 0.9913
+map50_95: 0.8572
+
+--- Treinando Modelo: SSDLite (BS=4) ---
+
+Iniciando Fold: 1
+SSDLite | Fold 1 | Epoca: 1/20 | Loss: 2.7126
+SSDLite | Fold 1 | Epoca: 2/20 | Loss: 1.2329
+SSDLite | Fold 1 | Epoca: 3/20 | Loss: 0.9491
+SSDLite | Fold 1 | Epoca: 4/20 | Loss: 0.6555
+SSDLite | Fold 1 | Epoca: 5/20 | Loss: 0.5617
+SSDLite | Fold 1 | Epoca: 6/20 | Loss: 0.5249
+SSDLite | Fold 1 | Epoca: 7/20 | Loss: 0.4850
+SSDLite | Fold 1 | Epoca: 8/20 | Loss: 0.4858
+SSDLite | Fold 1 | Epoca: 9/20 | Loss: 0.4789
+SSDLite | Fold 1 | Epoca: 10/20 | Loss: 0.4764
+SSDLite | Fold 1 | Epoca: 11/20 | Loss: 0.4829
+SSDLite | Fold 1 | Epoca: 12/20 | Loss: 0.4700
+SSDLite | Fold 1 | Epoca: 13/20 | Loss: 0.4831
+SSDLite | Fold 1 | Epoca: 14/20 | Loss: 0.4812
+SSDLite | Fold 1 | Epoca: 15/20 | Loss: 0.4817
+SSDLite | Fold 1 | Epoca: 16/20 | Loss: 0.4872
+SSDLite | Fold 1 | Epoca: 17/20 | Loss: 0.4831
+SSDLite | Fold 1 | Epoca: 18/20 | Loss: 0.4743
+SSDLite | Fold 1 | Epoca: 19/20 | Loss: 0.4789
+SSDLite | Fold 1 | Epoca: 20/20 | Loss: 0.4773
+
+Iniciando Fold: 2
+SSDLite | Fold 2 | Epoca: 1/20 | Loss: 2.7032
+SSDLite | Fold 2 | Epoca: 2/20 | Loss: 1.2232
+SSDLite | Fold 2 | Epoca: 3/20 | Loss: 0.9068
+SSDLite | Fold 2 | Epoca: 4/20 | Loss: 0.6186
+SSDLite | Fold 2 | Epoca: 5/20 | Loss: 0.5509
+SSDLite | Fold 2 | Epoca: 6/20 | Loss: 0.5101
+SSDLite | Fold 2 | Epoca: 7/20 | Loss: 0.4833
+SSDLite | Fold 2 | Epoca: 8/20 | Loss: 0.4828
+SSDLite | Fold 2 | Epoca: 9/20 | Loss: 0.4771
+SSDLite | Fold 2 | Epoca: 10/20 | Loss: 0.4837
+SSDLite | Fold 2 | Epoca: 11/20 | Loss: 0.4698
+SSDLite | Fold 2 | Epoca: 12/20 | Loss: 0.4697
+SSDLite | Fold 2 | Epoca: 13/20 | Loss: 0.4724
+SSDLite | Fold 2 | Epoca: 14/20 | Loss: 0.4599
+SSDLite | Fold 2 | Epoca: 15/20 | Loss: 0.4689
+SSDLite | Fold 2 | Epoca: 16/20 | Loss: 0.4766
+SSDLite | Fold 2 | Epoca: 17/20 | Loss: 0.4739
+SSDLite | Fold 2 | Epoca: 18/20 | Loss: 0.4696
+SSDLite | Fold 2 | Epoca: 19/20 | Loss: 0.4689
+SSDLite | Fold 2 | Epoca: 20/20 | Loss: 0.4721
+
+Iniciando Fold: 3
+SSDLite | Fold 3 | Epoca: 1/20 | Loss: 2.6229
+SSDLite | Fold 3 | Epoca: 2/20 | Loss: 1.2025
+SSDLite | Fold 3 | Epoca: 3/20 | Loss: 0.8914
+SSDLite | Fold 3 | Epoca: 4/20 | Loss: 0.5879
+SSDLite | Fold 3 | Epoca: 5/20 | Loss: 0.5204
+SSDLite | Fold 3 | Epoca: 6/20 | Loss: 0.4930
+SSDLite | Fold 3 | Epoca: 7/20 | Loss: 0.4667
+SSDLite | Fold 3 | Epoca: 8/20 | Loss: 0.4555
+SSDLite | Fold 3 | Epoca: 9/20 | Loss: 0.4604
+SSDLite | Fold 3 | Epoca: 10/20 | Loss: 0.4535
+SSDLite | Fold 3 | Epoca: 11/20 | Loss: 0.4511
+SSDLite | Fold 3 | Epoca: 12/20 | Loss: 0.4559
+SSDLite | Fold 3 | Epoca: 13/20 | Loss: 0.4640
+SSDLite | Fold 3 | Epoca: 14/20 | Loss: 0.4555
+SSDLite | Fold 3 | Epoca: 15/20 | Loss: 0.4558
+SSDLite | Fold 3 | Epoca: 16/20 | Loss: 0.4524
+SSDLite | Fold 3 | Epoca: 17/20 | Loss: 0.4507
+SSDLite | Fold 3 | Epoca: 18/20 | Loss: 0.4551
+SSDLite | Fold 3 | Epoca: 19/20 | Loss: 0.4484
+SSDLite | Fold 3 | Epoca: 20/20 | Loss: 0.4481
+
+Iniciando Fold: 4
+SSDLite | Fold 4 | Epoca: 1/20 | Loss: 2.5580
+SSDLite | Fold 4 | Epoca: 2/20 | Loss: 1.1458
+SSDLite | Fold 4 | Epoca: 3/20 | Loss: 0.8843
+SSDLite | Fold 4 | Epoca: 4/20 | Loss: 0.5984
+SSDLite | Fold 4 | Epoca: 5/20 | Loss: 0.5176
+SSDLite | Fold 4 | Epoca: 6/20 | Loss: 0.4782
+SSDLite | Fold 4 | Epoca: 7/20 | Loss: 0.4510
+SSDLite | Fold 4 | Epoca: 8/20 | Loss: 0.4505
+SSDLite | Fold 4 | Epoca: 9/20 | Loss: 0.4416
+SSDLite | Fold 4 | Epoca: 10/20 | Loss: 0.4413
+SSDLite | Fold 4 | Epoca: 11/20 | Loss: 0.4453
+SSDLite | Fold 4 | Epoca: 12/20 | Loss: 0.4510
+SSDLite | Fold 4 | Epoca: 13/20 | Loss: 0.4388
+SSDLite | Fold 4 | Epoca: 14/20 | Loss: 0.4377
+SSDLite | Fold 4 | Epoca: 15/20 | Loss: 0.4487
+SSDLite | Fold 4 | Epoca: 16/20 | Loss: 0.4434
+SSDLite | Fold 4 | Epoca: 17/20 | Loss: 0.4450
+SSDLite | Fold 4 | Epoca: 18/20 | Loss: 0.4453
+SSDLite | Fold 4 | Epoca: 19/20 | Loss: 0.4489
+SSDLite | Fold 4 | Epoca: 20/20 | Loss: 0.4323
+
+Iniciando Fold: 5
+SSDLite | Fold 5 | Epoca: 1/20 | Loss: 2.6269
+SSDLite | Fold 5 | Epoca: 2/20 | Loss: 1.2062
+SSDLite | Fold 5 | Epoca: 3/20 | Loss: 0.8696
+SSDLite | Fold 5 | Epoca: 4/20 | Loss: 0.5973
+SSDLite | Fold 5 | Epoca: 5/20 | Loss: 0.5215
+SSDLite | Fold 5 | Epoca: 6/20 | Loss: 0.4923
+SSDLite | Fold 5 | Epoca: 7/20 | Loss: 0.4573
+SSDLite | Fold 5 | Epoca: 8/20 | Loss: 0.4378
+SSDLite | Fold 5 | Epoca: 9/20 | Loss: 0.4488
+SSDLite | Fold 5 | Epoca: 10/20 | Loss: 0.4374
+SSDLite | Fold 5 | Epoca: 11/20 | Loss: 0.4436
+SSDLite | Fold 5 | Epoca: 12/20 | Loss: 0.4378
+SSDLite | Fold 5 | Epoca: 13/20 | Loss: 0.4487
+SSDLite | Fold 5 | Epoca: 14/20 | Loss: 0.4467
+SSDLite | Fold 5 | Epoca: 15/20 | Loss: 0.4435
+SSDLite | Fold 5 | Epoca: 16/20 | Loss: 0.4497
+SSDLite | Fold 5 | Epoca: 17/20 | Loss: 0.4448
+SSDLite | Fold 5 | Epoca: 18/20 | Loss: 0.4426
+SSDLite | Fold 5 | Epoca: 19/20 | Loss: 0.4322
+SSDLite | Fold 5 | Epoca: 20/20 | Loss: 0.4462
+
+Resultados Finais Ponderados (SSDLite - BS 4):
+precision: 0.9176
+recall: 0.9859
+f_score: 0.9503
+map50: 0.9873
+map50_95: 0.7785
+C:\Users\Lukao\OneDrive\Área de Trabalho\fitcow\charts\metrics_charts.py:16: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  fig, ax = plt.subplots(figsize=(10, 6))
+
+##################################################
+Iniciando experimentos com Batch Size: 6
+##################################################
+
+--- Treinando Modelo: FasterRCNN (BS=6) ---
+
+Iniciando Fold: 1
+FasterRCNN | Fold 1 | Epoca: 1/20 | Loss: 0.1243
+FasterRCNN | Fold 1 | Epoca: 2/20 | Loss: 0.0487
+FasterRCNN | Fold 1 | Epoca: 3/20 | Loss: 0.0355
+FasterRCNN | Fold 1 | Epoca: 4/20 | Loss: 0.0254
+FasterRCNN | Fold 1 | Epoca: 5/20 | Loss: 0.0240
+FasterRCNN | Fold 1 | Epoca: 6/20 | Loss: 0.0232
+FasterRCNN | Fold 1 | Epoca: 7/20 | Loss: 0.0224
+FasterRCNN | Fold 1 | Epoca: 8/20 | Loss: 0.0224
+FasterRCNN | Fold 1 | Epoca: 9/20 | Loss: 0.0222
+FasterRCNN | Fold 1 | Epoca: 10/20 | Loss: 0.0221
+FasterRCNN | Fold 1 | Epoca: 11/20 | Loss: 0.0220
+FasterRCNN | Fold 1 | Epoca: 12/20 | Loss: 0.0221
+FasterRCNN | Fold 1 | Epoca: 13/20 | Loss: 0.0220
+FasterRCNN | Fold 1 | Epoca: 14/20 | Loss: 0.0219
+FasterRCNN | Fold 1 | Epoca: 15/20 | Loss: 0.0220
+FasterRCNN | Fold 1 | Epoca: 16/20 | Loss: 0.0217
+FasterRCNN | Fold 1 | Epoca: 17/20 | Loss: 0.0219
+FasterRCNN | Fold 1 | Epoca: 18/20 | Loss: 0.0221
+FasterRCNN | Fold 1 | Epoca: 19/20 | Loss: 0.0220
+FasterRCNN | Fold 1 | Epoca: 20/20 | Loss: 0.0222
+C:\Users\Lukao\OneDrive\Área de Trabalho\fitcow\views\views.py:59: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  plt.figure(figsize=(12, 12))
+
+Iniciando Fold: 2
+FasterRCNN | Fold 2 | Epoca: 1/20 | Loss: 0.1333
+FasterRCNN | Fold 2 | Epoca: 2/20 | Loss: 0.0527
+FasterRCNN | Fold 2 | Epoca: 3/20 | Loss: 0.0393
+FasterRCNN | Fold 2 | Epoca: 4/20 | Loss: 0.0284
+FasterRCNN | Fold 2 | Epoca: 5/20 | Loss: 0.0266
+FasterRCNN | Fold 2 | Epoca: 6/20 | Loss: 0.0258
+FasterRCNN | Fold 2 | Epoca: 7/20 | Loss: 0.0249
+FasterRCNN | Fold 2 | Epoca: 8/20 | Loss: 0.0244
+FasterRCNN | Fold 2 | Epoca: 9/20 | Loss: 0.0247
+FasterRCNN | Fold 2 | Epoca: 10/20 | Loss: 0.0243
+FasterRCNN | Fold 2 | Epoca: 11/20 | Loss: 0.0241
+FasterRCNN | Fold 2 | Epoca: 12/20 | Loss: 0.0244
+FasterRCNN | Fold 2 | Epoca: 13/20 | Loss: 0.0243
+FasterRCNN | Fold 2 | Epoca: 14/20 | Loss: 0.0241
+FasterRCNN | Fold 2 | Epoca: 15/20 | Loss: 0.0243
+FasterRCNN | Fold 2 | Epoca: 16/20 | Loss: 0.0244
+FasterRCNN | Fold 2 | Epoca: 17/20 | Loss: 0.0243
+FasterRCNN | Fold 2 | Epoca: 18/20 | Loss: 0.0241
+FasterRCNN | Fold 2 | Epoca: 19/20 | Loss: 0.0241
+FasterRCNN | Fold 2 | Epoca: 20/20 | Loss: 0.0242
+
+Iniciando Fold: 3
+FasterRCNN | Fold 3 | Epoca: 1/20 | Loss: 0.1339
+FasterRCNN | Fold 3 | Epoca: 2/20 | Loss: 0.0470
+FasterRCNN | Fold 3 | Epoca: 3/20 | Loss: 0.0382
+FasterRCNN | Fold 3 | Epoca: 4/20 | Loss: 0.0277
+FasterRCNN | Fold 3 | Epoca: 5/20 | Loss: 0.0261
+FasterRCNN | Fold 3 | Epoca: 6/20 | Loss: 0.0253
+FasterRCNN | Fold 3 | Epoca: 7/20 | Loss: 0.0243
+FasterRCNN | Fold 3 | Epoca: 8/20 | Loss: 0.0243
+FasterRCNN | Fold 3 | Epoca: 9/20 | Loss: 0.0240
+FasterRCNN | Fold 3 | Epoca: 10/20 | Loss: 0.0243
+FasterRCNN | Fold 3 | Epoca: 11/20 | Loss: 0.0240
+FasterRCNN | Fold 3 | Epoca: 12/20 | Loss: 0.0240
+FasterRCNN | Fold 3 | Epoca: 13/20 | Loss: 0.0243
+FasterRCNN | Fold 3 | Epoca: 14/20 | Loss: 0.0242
+FasterRCNN | Fold 3 | Epoca: 15/20 | Loss: 0.0237
+FasterRCNN | Fold 3 | Epoca: 16/20 | Loss: 0.0240
+FasterRCNN | Fold 3 | Epoca: 17/20 | Loss: 0.0237
+FasterRCNN | Fold 3 | Epoca: 18/20 | Loss: 0.0239
+FasterRCNN | Fold 3 | Epoca: 19/20 | Loss: 0.0240
+FasterRCNN | Fold 3 | Epoca: 20/20 | Loss: 0.0238
+
+Iniciando Fold: 4
+FasterRCNN | Fold 4 | Epoca: 1/20 | Loss: 0.1304
+FasterRCNN | Fold 4 | Epoca: 2/20 | Loss: 0.0498
+FasterRCNN | Fold 4 | Epoca: 3/20 | Loss: 0.0330
+FasterRCNN | Fold 4 | Epoca: 4/20 | Loss: 0.0258
+FasterRCNN | Fold 4 | Epoca: 5/20 | Loss: 0.0243
+FasterRCNN | Fold 4 | Epoca: 6/20 | Loss: 0.0238
+FasterRCNN | Fold 4 | Epoca: 7/20 | Loss: 0.0226
+FasterRCNN | Fold 4 | Epoca: 8/20 | Loss: 0.0226
+FasterRCNN | Fold 4 | Epoca: 9/20 | Loss: 0.0226
+FasterRCNN | Fold 4 | Epoca: 10/20 | Loss: 0.0223
+FasterRCNN | Fold 4 | Epoca: 11/20 | Loss: 0.0226
+FasterRCNN | Fold 4 | Epoca: 12/20 | Loss: 0.0223
+FasterRCNN | Fold 4 | Epoca: 13/20 | Loss: 0.0222
+FasterRCNN | Fold 4 | Epoca: 14/20 | Loss: 0.0224
+FasterRCNN | Fold 4 | Epoca: 15/20 | Loss: 0.0224
+FasterRCNN | Fold 4 | Epoca: 16/20 | Loss: 0.0224
+FasterRCNN | Fold 4 | Epoca: 17/20 | Loss: 0.0225
+FasterRCNN | Fold 4 | Epoca: 18/20 | Loss: 0.0220
+FasterRCNN | Fold 4 | Epoca: 19/20 | Loss: 0.0223
+FasterRCNN | Fold 4 | Epoca: 20/20 | Loss: 0.0224
+
+Iniciando Fold: 5
+FasterRCNN | Fold 5 | Epoca: 1/20 | Loss: 0.1308
+FasterRCNN | Fold 5 | Epoca: 2/20 | Loss: 0.0435
+FasterRCNN | Fold 5 | Epoca: 3/20 | Loss: 0.0325
+FasterRCNN | Fold 5 | Epoca: 4/20 | Loss: 0.0250
+FasterRCNN | Fold 5 | Epoca: 5/20 | Loss: 0.0231
+FasterRCNN | Fold 5 | Epoca: 6/20 | Loss: 0.0229
+FasterRCNN | Fold 5 | Epoca: 7/20 | Loss: 0.0219
+FasterRCNN | Fold 5 | Epoca: 8/20 | Loss: 0.0217
+FasterRCNN | Fold 5 | Epoca: 9/20 | Loss: 0.0215
+FasterRCNN | Fold 5 | Epoca: 10/20 | Loss: 0.0215
+FasterRCNN | Fold 5 | Epoca: 11/20 | Loss: 0.0215
+FasterRCNN | Fold 5 | Epoca: 12/20 | Loss: 0.0215
+FasterRCNN | Fold 5 | Epoca: 13/20 | Loss: 0.0213
+FasterRCNN | Fold 5 | Epoca: 14/20 | Loss: 0.0214
+FasterRCNN | Fold 5 | Epoca: 15/20 | Loss: 0.0216
+FasterRCNN | Fold 5 | Epoca: 16/20 | Loss: 0.0215
+FasterRCNN | Fold 5 | Epoca: 17/20 | Loss: 0.0215
+FasterRCNN | Fold 5 | Epoca: 18/20 | Loss: 0.0215
+FasterRCNN | Fold 5 | Epoca: 19/20 | Loss: 0.0216
+FasterRCNN | Fold 5 | Epoca: 20/20 | Loss: 0.0216
+
+Resultados Finais Ponderados (FasterRCNN - BS 6):
+precision: 0.9687
+recall: 0.9936
+f_score: 0.9810
+map50: 0.9900
+map50_95: 0.8510
+
+--- Treinando Modelo: SSDLite (BS=6) ---
+
+Iniciando Fold: 1
+SSDLite | Fold 1 | Epoca: 1/20 | Loss: 3.0297
+SSDLite | Fold 1 | Epoca: 2/20 | Loss: 1.2742
+SSDLite | Fold 1 | Epoca: 3/20 | Loss: 0.9660
+SSDLite | Fold 1 | Epoca: 4/20 | Loss: 0.6816
+SSDLite | Fold 1 | Epoca: 5/20 | Loss: 0.6031
+SSDLite | Fold 1 | Epoca: 6/20 | Loss: 0.5636
+SSDLite | Fold 1 | Epoca: 7/20 | Loss: 0.5396
+SSDLite | Fold 1 | Epoca: 8/20 | Loss: 0.5369
+SSDLite | Fold 1 | Epoca: 9/20 | Loss: 0.5329
+SSDLite | Fold 1 | Epoca: 10/20 | Loss: 0.5373
+SSDLite | Fold 1 | Epoca: 11/20 | Loss: 0.5269
+SSDLite | Fold 1 | Epoca: 12/20 | Loss: 0.5392
+SSDLite | Fold 1 | Epoca: 13/20 | Loss: 0.5310
+SSDLite | Fold 1 | Epoca: 14/20 | Loss: 0.5349
+SSDLite | Fold 1 | Epoca: 15/20 | Loss: 0.5307
+SSDLite | Fold 1 | Epoca: 16/20 | Loss: 0.5254
+SSDLite | Fold 1 | Epoca: 17/20 | Loss: 0.5311
+SSDLite | Fold 1 | Epoca: 18/20 | Loss: 0.5340
+SSDLite | Fold 1 | Epoca: 19/20 | Loss: 0.5202
+SSDLite | Fold 1 | Epoca: 20/20 | Loss: 0.5309
+
+Iniciando Fold: 2
+SSDLite | Fold 2 | Epoca: 1/20 | Loss: 2.8777
+SSDLite | Fold 2 | Epoca: 2/20 | Loss: 1.1897
+SSDLite | Fold 2 | Epoca: 3/20 | Loss: 0.8744
+SSDLite | Fold 2 | Epoca: 4/20 | Loss: 0.6025
+SSDLite | Fold 2 | Epoca: 5/20 | Loss: 0.5500
+SSDLite | Fold 2 | Epoca: 6/20 | Loss: 0.5338
+SSDLite | Fold 2 | Epoca: 7/20 | Loss: 0.5015
+SSDLite | Fold 2 | Epoca: 8/20 | Loss: 0.4941
+SSDLite | Fold 2 | Epoca: 9/20 | Loss: 0.4972
+SSDLite | Fold 2 | Epoca: 10/20 | Loss: 0.4981
+SSDLite | Fold 2 | Epoca: 11/20 | Loss: 0.4929
+SSDLite | Fold 2 | Epoca: 12/20 | Loss: 0.4936
+SSDLite | Fold 2 | Epoca: 13/20 | Loss: 0.4932
+SSDLite | Fold 2 | Epoca: 14/20 | Loss: 0.4982
+SSDLite | Fold 2 | Epoca: 15/20 | Loss: 0.4946
+SSDLite | Fold 2 | Epoca: 16/20 | Loss: 0.4897
+SSDLite | Fold 2 | Epoca: 17/20 | Loss: 0.4908
+SSDLite | Fold 2 | Epoca: 18/20 | Loss: 0.4917
+SSDLite | Fold 2 | Epoca: 19/20 | Loss: 0.4895
+SSDLite | Fold 2 | Epoca: 20/20 | Loss: 0.4985
+
+Iniciando Fold: 3
+SSDLite | Fold 3 | Epoca: 1/20 | Loss: 2.8862
+SSDLite | Fold 3 | Epoca: 2/20 | Loss: 1.2357
+SSDLite | Fold 3 | Epoca: 3/20 | Loss: 0.9289
+SSDLite | Fold 3 | Epoca: 4/20 | Loss: 0.6509
+SSDLite | Fold 3 | Epoca: 5/20 | Loss: 0.5828
+SSDLite | Fold 3 | Epoca: 6/20 | Loss: 0.5546
+SSDLite | Fold 3 | Epoca: 7/20 | Loss: 0.5248
+SSDLite | Fold 3 | Epoca: 8/20 | Loss: 0.5297
+SSDLite | Fold 3 | Epoca: 9/20 | Loss: 0.5195
+SSDLite | Fold 3 | Epoca: 10/20 | Loss: 0.5222
+SSDLite | Fold 3 | Epoca: 11/20 | Loss: 0.5103
+SSDLite | Fold 3 | Epoca: 12/20 | Loss: 0.5261
+SSDLite | Fold 3 | Epoca: 13/20 | Loss: 0.5129
+SSDLite | Fold 3 | Epoca: 14/20 | Loss: 0.5169
+SSDLite | Fold 3 | Epoca: 15/20 | Loss: 0.5183
+SSDLite | Fold 3 | Epoca: 16/20 | Loss: 0.5156
+SSDLite | Fold 3 | Epoca: 17/20 | Loss: 0.5139
+SSDLite | Fold 3 | Epoca: 18/20 | Loss: 0.5179
+SSDLite | Fold 3 | Epoca: 19/20 | Loss: 0.5174
+SSDLite | Fold 3 | Epoca: 20/20 | Loss: 0.5193
+
+Iniciando Fold: 4
+SSDLite | Fold 4 | Epoca: 1/20 | Loss: 2.8854
+SSDLite | Fold 4 | Epoca: 2/20 | Loss: 1.2302
+SSDLite | Fold 4 | Epoca: 3/20 | Loss: 0.9222
+SSDLite | Fold 4 | Epoca: 4/20 | Loss: 0.6402
+SSDLite | Fold 4 | Epoca: 5/20 | Loss: 0.5826
+SSDLite | Fold 4 | Epoca: 6/20 | Loss: 0.5476
+SSDLite | Fold 4 | Epoca: 7/20 | Loss: 0.5243
+SSDLite | Fold 4 | Epoca: 8/20 | Loss: 0.5197
+SSDLite | Fold 4 | Epoca: 9/20 | Loss: 0.5196
+SSDLite | Fold 4 | Epoca: 10/20 | Loss: 0.5135
+SSDLite | Fold 4 | Epoca: 11/20 | Loss: 0.5136
+SSDLite | Fold 4 | Epoca: 12/20 | Loss: 0.5182
+SSDLite | Fold 4 | Epoca: 13/20 | Loss: 0.5132
+SSDLite | Fold 4 | Epoca: 14/20 | Loss: 0.5053
+SSDLite | Fold 4 | Epoca: 15/20 | Loss: 0.5214
+SSDLite | Fold 4 | Epoca: 16/20 | Loss: 0.5172
+SSDLite | Fold 4 | Epoca: 17/20 | Loss: 0.5148
+SSDLite | Fold 4 | Epoca: 18/20 | Loss: 0.5149
+SSDLite | Fold 4 | Epoca: 19/20 | Loss: 0.5122
+SSDLite | Fold 4 | Epoca: 20/20 | Loss: 0.5137
+
+Iniciando Fold: 5
+SSDLite | Fold 5 | Epoca: 1/20 | Loss: 2.9977
+SSDLite | Fold 5 | Epoca: 2/20 | Loss: 1.2921
+SSDLite | Fold 5 | Epoca: 3/20 | Loss: 0.9112
+SSDLite | Fold 5 | Epoca: 4/20 | Loss: 0.6404
+SSDLite | Fold 5 | Epoca: 5/20 | Loss: 0.5776
+SSDLite | Fold 5 | Epoca: 6/20 | Loss: 0.5535
+SSDLite | Fold 5 | Epoca: 7/20 | Loss: 0.5245
+SSDLite | Fold 5 | Epoca: 8/20 | Loss: 0.5269
+SSDLite | Fold 5 | Epoca: 9/20 | Loss: 0.5161
+SSDLite | Fold 5 | Epoca: 10/20 | Loss: 0.5125
+SSDLite | Fold 5 | Epoca: 11/20 | Loss: 0.5202
+SSDLite | Fold 5 | Epoca: 12/20 | Loss: 0.5122
+SSDLite | Fold 5 | Epoca: 13/20 | Loss: 0.5133
+SSDLite | Fold 5 | Epoca: 14/20 | Loss: 0.5103
+SSDLite | Fold 5 | Epoca: 15/20 | Loss: 0.5117
+SSDLite | Fold 5 | Epoca: 16/20 | Loss: 0.5183
+SSDLite | Fold 5 | Epoca: 17/20 | Loss: 0.5213
+SSDLite | Fold 5 | Epoca: 18/20 | Loss: 0.5177
+SSDLite | Fold 5 | Epoca: 19/20 | Loss: 0.5149
+SSDLite | Fold 5 | Epoca: 20/20 | Loss: 0.5151
+
+Resultados Finais Ponderados (SSDLite - BS 6):
+precision: 0.9461
+recall: 0.9910
+f_score: 0.9679
+map50: 0.9925
+map50_95: 0.7641
